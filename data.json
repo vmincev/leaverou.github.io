@@ -3,6 +3,17 @@
 		{
 			"talk": [
 				{
+					"title": "Naslov",
+					"type": "Workshop"
+				}
+			],
+			"name": "Vlad M.",
+			"date": "2018-02-14",
+			"city": "Nis"
+		},
+		{
+			"talk": [
+				{
 					"title": "TBD",
 					"type": "Talk"
 				}
